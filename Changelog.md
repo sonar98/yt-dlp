@@ -4,6 +4,21 @@
 # To create a release, dispatch the https://github.com/yt-dlp/yt-dlp/actions/workflows/release.yml workflow on master
 -->
 
+### 2024.10.15.202201
+
+#### Core changes
+- [Merge pull request #1 from sonar98/ie/npo](https://github.com/yt-dlp/yt-dlp/commit/8fbe0c62160287e36bbf732f4140378ee2fa9275) by [pukkandan](https://github.com/pukkandan)
+
+#### Extractor changes
+- **npo**
+    - [Add Zapp extractor](https://github.com/yt-dlp/yt-dlp/commit/aef78fdfa894c7bf0efecbaf6ba317d282abd84b) by [pukkandan](https://github.com/pukkandan)
+    - [Add npo3 extractor](https://github.com/yt-dlp/yt-dlp/commit/d1175cf7a3ef629c961a0b691c2fca59aca21deb) by [pukkandan](https://github.com/pukkandan)
+    - [Fix hetklokhuis extractor](https://github.com/yt-dlp/yt-dlp/commit/e569c031967bd85007f7aa4552d8df08f1f0b06e) by [pukkandan](https://github.com/pukkandan)
+    - [Fix ntr extractor](https://github.com/yt-dlp/yt-dlp/commit/9768d62bf87bf30f976cf75e43163e322dad3fc0) by [pukkandan](https://github.com/pukkandan)
+    - [Fix radio extractor](https://github.com/yt-dlp/yt-dlp/commit/5f600dc61303d8c557d803a7d588370020d792c2) by [pukkandan](https://github.com/pukkandan)
+    - [Fix schooltv extractor](https://github.com/yt-dlp/yt-dlp/commit/2e9c00649c57805eb55402c64cc0c95567ec685e) by [pukkandan](https://github.com/pukkandan)
+- **npo.nl**: start: [Split extractor](https://github.com/yt-dlp/yt-dlp/commit/79795b950231651efe6920f4a896e10ea7e8d6eb) by [pukkandan](https://github.com/pukkandan)
+
 ### 2024.10.07
 
 #### Core changes

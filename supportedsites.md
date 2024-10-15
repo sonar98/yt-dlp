@@ -75,7 +75,7 @@
  - **AmericasTestKitchenSeason**
  - **AmHistoryChannel**
  - **AnchorFMEpisode**
- - **anderetijden**: npo.nl, ntr.nl, omroepwnl.nl, zapp.nl and npo3.nl
+ - **anderetijden**
  - **Angel**
  - **AnimalPlanet**
  - **ant1newsgr:article**: ant1news.gr articles
@@ -968,10 +968,9 @@
  - **nowness:playlist**
  - **nowness:series**
  - **Noz**: (**Currently broken**)
- - **npo**: npo.nl, ntr.nl, omroepwnl.nl, zapp.nl and npo3.nl
- - **npo.nl:live**
+ - **npo.nl:npo3**
  - **npo.nl:radio**
- - **npo.nl:​radio:fragment**
+ - **npo.nl:start**
  - **Npr**
  - **NRK**
  - **NRKPlaylist**
@@ -984,6 +983,7 @@
  - **NRKTVSeason**
  - **NRKTVSeries**
  - **NRLTV**: (**Currently broken**)
+ - **ntr**
  - **nts.live**
  - **ntv.ru**
  - **NubilesPorn**: [*nubiles-porn*](## "netrc machine")
@@ -1664,7 +1664,7 @@
  - **VolejTV**
  - **VoxMedia**
  - **VoxMediaVolume**
- - **vpro**: npo.nl, ntr.nl, omroepwnl.nl, zapp.nl and npo3.nl
+ - **vpro**
  - **vqq:series**
  - **vqq:video**
  - **VRT**: VRT NWS, Flanders News, Flandern Info and Sporza
@@ -1719,7 +1719,6 @@
  - **Wistia**
  - **WistiaChannel**
  - **WistiaPlaylist**
- - **wnl**: npo.nl, ntr.nl, omroepwnl.nl, zapp.nl and npo3.nl
  - **wordpress:mb.miniAudioPlayer**
  - **wordpress:playlist**
  - **WorldStarHipHop**
@@ -1799,6 +1798,7 @@
  - **Zaiko**
  - **ZaikoETicket**
  - **Zapiks**
+ - **zapp.nl**
  - **Zattoo**: [*zattoo*](## "netrc machine")
  - **ZattooLive**: [*zattoo*](## "netrc machine")
  - **ZattooMovies**: [*zattoo*](## "netrc machine")
